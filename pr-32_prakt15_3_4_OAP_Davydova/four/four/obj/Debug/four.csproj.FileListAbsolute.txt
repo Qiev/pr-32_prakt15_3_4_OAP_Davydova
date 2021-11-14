@@ -1,0 +1,7 @@
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\bin\Debug\four.exe.config
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\bin\Debug\four.exe
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\bin\Debug\four.pdb
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\obj\Debug\four.csproj.AssemblyReference.cache
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\obj\Debug\four.csproj.CoreCompileInputs.cache
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\obj\Debug\four.exe
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\four\four\obj\Debug\four.pdb

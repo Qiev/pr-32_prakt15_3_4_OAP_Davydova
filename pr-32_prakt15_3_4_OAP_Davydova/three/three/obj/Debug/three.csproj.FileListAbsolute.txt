@@ -1,0 +1,7 @@
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\bin\Debug\three.exe.config
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\bin\Debug\three.exe
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\bin\Debug\three.pdb
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\obj\Debug\three.csproj.AssemblyReference.cache
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\obj\Debug\three.csproj.CoreCompileInputs.cache
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\obj\Debug\three.exe
+G:\course3\OAP\pr-32_prakt15_3_4_OAP_Davydova\three\three\obj\Debug\three.pdb
